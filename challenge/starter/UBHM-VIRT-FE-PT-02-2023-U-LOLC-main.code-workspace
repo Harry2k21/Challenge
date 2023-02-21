@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Desktop/Bootcamp/UBHM-VIRT-FE-PT-02-2023-U-LOLC-main"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "challenge"
+	}
+}
